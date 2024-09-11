@@ -1,7 +1,8 @@
 # PSP Video Converter Tool
 A GUI tool for converting videos into PSP compatible format.
 
-This program is a wrapper of ffmpeg library to convert a video into a compatible format with the PSP (This format is a H.264 codec, 480x272 resolution and AAC audio)
+This program is a wrapper of ffmpeg library to convert videos into a compatible format with the PSP 
+(This format needs to meet: H.264 codec, 480x272 resolution and AAC audio)
 
 # Supported formats
 - MP4
@@ -11,7 +12,7 @@ This program is a wrapper of ffmpeg library to convert a video into a compatible
 - WEBM
 
 # Used libraries
-- ffmpeg
+- ffmpeg [https://github.com/FFmpeg/FFmpeg]
 
 # How to build
 - Load project into Apache Netbeans 21 or higher.

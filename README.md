@@ -15,5 +15,5 @@ This program is a wrapper of ffmpeg library to convert videos into a compatible 
 - ffmpeg [https://github.com/FFmpeg/FFmpeg]
 
 # How to build
-- Load project into Apache Netbeans 21 or higher.
-- When building, make sure "bin" folder is together along with the compiled .jar
+- Load project into Visual Studio 2022
+- When building, make sure "bin" folder is together along with the compiled files

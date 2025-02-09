@@ -1,26 +1,139 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {}
+    "net8.0-windows7.0": {
+      "WPF-UI/4.0.0": {
+        "type": "package",
+        "dependencies": {
+          "WPF-UI.Abstractions": "4.0.0"
+        },
+        "compile": {
+          "lib/net8.0-windows7.0/Wpf.Ui.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-windows7.0/Wpf.Ui.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "WPF-UI.Abstractions/4.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Wpf.Ui.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Wpf.Ui.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "WPF-UI/4.0.0": {
+      "sha512": "sbYXPpdZttHcmGPLfHDXDP6Q1/Dk0FubREyOj7QYTsFNwIXr2smt4o0WfUWPED586M63982DqUDhUvUSTLjpZA==",
+      "type": "package",
+      "path": "wpf-ui/4.0.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.md",
+        "README.md",
+        "ThirdPartyNotices.txt",
+        "lib/net462/Wpf.Ui.dll",
+        "lib/net462/Wpf.Ui.pdb",
+        "lib/net462/Wpf.Ui.xml",
+        "lib/net472/Wpf.Ui.dll",
+        "lib/net472/Wpf.Ui.pdb",
+        "lib/net472/Wpf.Ui.xml",
+        "lib/net481/Wpf.Ui.dll",
+        "lib/net481/Wpf.Ui.pdb",
+        "lib/net481/Wpf.Ui.xml",
+        "lib/net6.0-windows7.0/Wpf.Ui.dll",
+        "lib/net6.0-windows7.0/Wpf.Ui.pdb",
+        "lib/net6.0-windows7.0/Wpf.Ui.xml",
+        "lib/net8.0-windows7.0/Wpf.Ui.dll",
+        "lib/net8.0-windows7.0/Wpf.Ui.pdb",
+        "lib/net8.0-windows7.0/Wpf.Ui.xml",
+        "lib/net9.0-windows7.0/Wpf.Ui.dll",
+        "lib/net9.0-windows7.0/Wpf.Ui.pdb",
+        "lib/net9.0-windows7.0/Wpf.Ui.xml",
+        "tools/VisualStudioToolsManifest.xml",
+        "wpf-ui.4.0.0.nupkg.sha512",
+        "wpf-ui.nuspec"
+      ]
+    },
+    "WPF-UI.Abstractions/4.0.0": {
+      "sha512": "VXeSxHhlWq8fwapzOdhKEPg924VyVTKrs4UtvBJsDT4Rh6jdauxTGrTCyfyj2EWgN+9oP7o/2LDkQ5VGX3DcmA==",
+      "type": "package",
+      "path": "wpf-ui.abstractions/4.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.md",
+        "README.md",
+        "ThirdPartyNotices.txt",
+        "lib/net462/Wpf.Ui.Abstractions.dll",
+        "lib/net462/Wpf.Ui.Abstractions.pdb",
+        "lib/net462/Wpf.Ui.Abstractions.xml",
+        "lib/net472/Wpf.Ui.Abstractions.dll",
+        "lib/net472/Wpf.Ui.Abstractions.pdb",
+        "lib/net472/Wpf.Ui.Abstractions.xml",
+        "lib/net6.0/Wpf.Ui.Abstractions.dll",
+        "lib/net6.0/Wpf.Ui.Abstractions.pdb",
+        "lib/net6.0/Wpf.Ui.Abstractions.xml",
+        "lib/net8.0/Wpf.Ui.Abstractions.dll",
+        "lib/net8.0/Wpf.Ui.Abstractions.pdb",
+        "lib/net8.0/Wpf.Ui.Abstractions.xml",
+        "lib/net9.0/Wpf.Ui.Abstractions.dll",
+        "lib/net9.0/Wpf.Ui.Abstractions.pdb",
+        "lib/net9.0/Wpf.Ui.Abstractions.xml",
+        "lib/netstandard2.0/Wpf.Ui.Abstractions.dll",
+        "lib/netstandard2.0/Wpf.Ui.Abstractions.pdb",
+        "lib/netstandard2.0/Wpf.Ui.Abstractions.xml",
+        "lib/netstandard2.1/Wpf.Ui.Abstractions.dll",
+        "lib/netstandard2.1/Wpf.Ui.Abstractions.pdb",
+        "lib/netstandard2.1/Wpf.Ui.Abstractions.xml",
+        "wpf-ui.abstractions.4.0.0.nupkg.sha512",
+        "wpf-ui.abstractions.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": []
+    "net8.0-windows7.0": [
+      "WPF-UI >= 4.0.0",
+      "WPF-UI.Abstractions >= 4.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\Rammaken\\.nuget\\packages\\": {}
+    "C:\\Users\\lagga\\.nuget\\packages\\": {},
+    "D:\\Programas\\Visual Studio Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Workspace\\CSharp\\PSPVideoConverterTool\\PSPVideoConverterTool.csproj",
+      "projectUniqueName": "D:\\Workspace\\Programacion\\CSharp\\PSPVideoConverterTool\\PSPVideoConverterTool.csproj",
       "projectName": "PSPVideoConverterTool",
-      "projectPath": "E:\\Workspace\\CSharp\\PSPVideoConverterTool\\PSPVideoConverterTool.csproj",
-      "packagesPath": "C:\\Users\\Rammaken\\.nuget\\packages\\",
-      "outputPath": "E:\\Workspace\\CSharp\\PSPVideoConverterTool\\obj\\",
+      "projectPath": "D:\\Workspace\\Programacion\\CSharp\\PSPVideoConverterTool\\PSPVideoConverterTool.csproj",
+      "packagesPath": "C:\\Users\\lagga\\.nuget\\packages\\",
+      "outputPath": "D:\\Workspace\\Programacion\\CSharp\\PSPVideoConverterTool\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Programas\\Visual Studio Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Rammaken\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lagga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -45,11 +158,22 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0-windows7.0": {
         "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "WPF-UI": {
+            "target": "Package",
+            "version": "[4.0.0, )"
+          },
+          "WPF-UI.Abstractions": {
+            "target": "Package",
+            "version": "[4.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -69,7 +193,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

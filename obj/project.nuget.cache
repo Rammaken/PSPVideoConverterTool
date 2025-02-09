@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "VzegivC8eXE=",
+  "dgSpecHash": "KJDPK+xVAlg=",
   "success": true,
-  "projectFilePath": "E:\\Workspace\\CSharp\\PSPVideoConverterTool\\PSPVideoConverterTool.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Workspace\\Programacion\\CSharp\\PSPVideoConverterTool\\PSPVideoConverterTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lagga\\.nuget\\packages\\wpf-ui\\4.0.0\\wpf-ui.4.0.0.nupkg.sha512",
+    "C:\\Users\\lagga\\.nuget\\packages\\wpf-ui.abstractions\\4.0.0\\wpf-ui.abstractions.4.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

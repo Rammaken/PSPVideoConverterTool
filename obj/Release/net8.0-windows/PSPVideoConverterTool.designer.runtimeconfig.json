@@ -12,12 +12,14 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Rammaken\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Rammaken\\.nuget\\packages"
+      "C:\\Users\\lagga\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lagga\\.nuget\\packages",
+      "D:\\Programas\\Visual Studio Shared\\NuGetPackages"
     ],
     "configProperties": {
       "System.Reflection.Metadata.MetadataUpdater.IsSupported": false,
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
+      "CSWINRT_USE_WINDOWS_UI_XAML_PROJECTIONS": false,
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
     }
   }

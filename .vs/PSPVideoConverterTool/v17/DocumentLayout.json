@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\Programacion\\CSharp\\PSPVideoConverterTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9F5C60-961D-42AB-9085-B5DBCD9B19C1}|PSPVideoConverterTool.csproj|d:\\workspace\\programacion\\csharp\\pspvideoconvertertool\\ui_converter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9F5C60-961D-42AB-9085-B5DBCD9B19C1}|PSPVideoConverterTool.csproj|solutionrelative:ui_converter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9F5C60-961D-42AB-9085-B5DBCD9B19C1}|PSPVideoConverterTool.csproj|d:\\workspace\\programacion\\csharp\\pspvideoconvertertool\\ui_converter.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B9F5C60-961D-42AB-9085-B5DBCD9B19C1}|PSPVideoConverterTool.csproj|solutionrelative:ui_converter.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lagga\\AppData\\Local\\Temp\\.vsdbgsrc\\db65081a369f9996ceeaa50087672d2d78480a2965f3eedecc89dbae8260c2da\\Dispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9F5C60-961D-42AB-9085-B5DBCD9B19C1}|PSPVideoConverterTool.csproj|d:\\workspace\\programacion\\csharp\\pspvideoconvertertool\\pspvideoconvertertool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B9F5C60-961D-42AB-9085-B5DBCD9B19C1}|PSPVideoConverterTool.csproj|solutionrelative:pspvideoconvertertool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9F5C60-961D-42AB-9085-B5DBCD9B19C1}|PSPVideoConverterTool.csproj|d:\\workspace\\programacion\\csharp\\pspvideoconvertertool\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B9F5C60-961D-42AB-9085-B5DBCD9B19C1}|PSPVideoConverterTool.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9F5C60-961D-42AB-9085-B5DBCD9B19C1}|PSPVideoConverterTool.csproj|d:\\workspace\\programacion\\csharp\\pspvideoconvertertool\\pspvideoconvertertool.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7B9F5C60-961D-42AB-9085-B5DBCD9B19C1}|PSPVideoConverterTool.csproj|solutionrelative:pspvideoconvertertool.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lagga\\AppData\\Local\\Temp\\.vsdbgsrc\\ee5cecc93d553594bcdd27f7f78ec4c027d563536bb5d0f2c4359be1479d5362\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\lagga\\AppData\\Local\\Temp\\.vsdbgsrc\\db65081a369f9996ceeaa50087672d2d78480a2965f3eedecc89dbae8260c2da\\Dispatcher.cs",
+              "ToolTip": "C:\\Users\\lagga\\AppData\\Local\\Temp\\.vsdbgsrc\\db65081a369f9996ceeaa50087672d2d78480a2965f3eedecc89dbae8260c2da\\Dispatcher.cs [Solo lectura]",
+              "ViewState": "AgIAALABAAAAAAAAAAAmwMMBAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:19:42.462Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\lagga\\AppData\\Local\\Temp\\.vsdbgsrc\\ee5cecc93d553594bcdd27f7f78ec4c027d563536bb5d0f2c4359be1479d5362\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\lagga\\AppData\\Local\\Temp\\.vsdbgsrc\\ee5cecc93d553594bcdd27f7f78ec4c027d563536bb5d0f2c4359be1479d5362\\XamlReader.cs [Solo lectura]",
+              "ViewState": "AgIAAOsBAAAAAAAAAAAAAP4BAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:01:30.601Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PSPVideoConverterTool.csproj",
+              "DocumentMoniker": "D:\\Workspace\\Programacion\\CSharp\\PSPVideoConverterTool\\PSPVideoConverterTool.csproj",
+              "RelativeDocumentMoniker": "PSPVideoConverterTool.csproj",
+              "ToolTip": "D:\\Workspace\\Programacion\\CSharp\\PSPVideoConverterTool\\PSPVideoConverterTool.csproj",
+              "RelativeToolTip": "PSPVideoConverterTool.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T02:37:22.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PSPVideoConverterTool",
+              "DocumentMoniker": "D:\\Workspace\\Programacion\\CSharp\\PSPVideoConverterTool\\PSPVideoConverterTool.csproj",
+              "RelativeDocumentMoniker": "PSPVideoConverterTool.csproj",
+              "ToolTip": "D:\\Workspace\\Programacion\\CSharp\\PSPVideoConverterTool\\PSPVideoConverterTool.csproj",
+              "RelativeToolTip": "PSPVideoConverterTool.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T23:21:03.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UI_Converter.xaml.cs",
+              "DocumentMoniker": "D:\\Workspace\\Programacion\\CSharp\\PSPVideoConverterTool\\UI_Converter.xaml.cs",
+              "RelativeDocumentMoniker": "UI_Converter.xaml.cs",
+              "ToolTip": "D:\\Workspace\\Programacion\\CSharp\\PSPVideoConverterTool\\UI_Converter.xaml.cs",
+              "RelativeToolTip": "UI_Converter.xaml.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAWwO8AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:19:48.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Workspace\\Programacion\\CSharp\\PSPVideoConverterTool\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\Workspace\\Programacion\\CSharp\\PSPVideoConverterTool\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-14T23:03:29.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UI_Converter.xaml",
+              "DocumentMoniker": "D:\\Workspace\\Programacion\\CSharp\\PSPVideoConverterTool\\UI_Converter.xaml",
+              "RelativeDocumentMoniker": "UI_Converter.xaml",
+              "ToolTip": "D:\\Workspace\\Programacion\\CSharp\\PSPVideoConverterTool\\UI_Converter.xaml",
+              "RelativeToolTip": "UI_Converter.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-14T23:08:40.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
